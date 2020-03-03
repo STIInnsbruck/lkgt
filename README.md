@@ -1,9 +1,9 @@
 # How to build large knowledge graphs efficiently (LKGT)
  ISWC 2020 Tutorial
 
-## Agenda:
+## Tentative Schedule:
 **November 2<sup>nd</sup> or 3<sup>rd</sup> 2020 (TBA)**  
-**Duration:** half day
+**Duration:** half day (times slots TBA)
 
 More information about the program can be found on [the conference's tutorial program website](https://iswc2020.semanticweb.org/)
 
@@ -16,9 +16,19 @@ The presenters are experienced PhD students with several publications in the fie
 The organizers are co-authors of the book "Knowledge Graphs - Methodology, Tools and Selected Use Cases" [(Fensel et al., 2020)](https://www.springer.com/de/book/9783030374389).
 
 ### Elias Kärle
-TBA
+Semantic Technology Institute Innsbruck  
+University Of Innsbruck  
+elias[dot]kaerle[at]sti2[dot]at  
+https://elias.kaerle.com  
+
+Elias Kärle is...
 
 ### Umutcan Simsek
+Semantic Technology Institute Innsbruck  
+University Of Innsbruck  
+umutcan[dot]simsek[at]sti2[dot]at  
+https://umutcan.eu
+
 Umutcan Simsek is a senior PhD student at STI Innsbruck. His research is on service-driven goal-oriented dialog systems, supervised by Univ.-Prof. Dr. Dieter Fensel. He has been a part of the research group  for 4 years and worked on several industrial and research projects at both national and EU level. He has (co-) authored several publications, including conference and journal publications as well as a book about topics like web service annotation, Knowledge Graph building based on schema.org annotations and domain-specific verification of semantic annotations. He is also a receiver of the [netidee](https://www.netidee.at/user/1154) grant in 2018 awarded by the Internet Privatstiftung Austria for the most innovative PhD and Master theses in Austria.
 
 ## Slides
