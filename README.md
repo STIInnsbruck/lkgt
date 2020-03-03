@@ -21,7 +21,7 @@ University Of Innsbruck
 elias[dot]kaerle[at]sti2[dot]at  
 [elias.kaerle.com](https://elias.kaerle.com)
 
-Elias Kärle is...
+Elias Kärle is a senior PhD student at STI Innsbruck. His research is focusing on efficient publication methods for Linked Data, supervised by Univ.-Prof. Dr. Dieter Fensel. ...
 
 ### Umutcan Simsek
 Semantic Technology Institute Innsbruck  
