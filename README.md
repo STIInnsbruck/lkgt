@@ -19,7 +19,7 @@ The organizers are co-authors of the book "Knowledge Graphs - Methodology, Tools
 Semantic Technology Institute Innsbruck  
 University Of Innsbruck  
 elias[dot]kaerle[at]sti2[dot]at  
-https://elias.kaerle.com  
+[elias.kaerle.com](https://elias.kaerle.com)
 
 Elias Kärle is...
 
@@ -27,7 +27,7 @@ Elias Kärle is...
 Semantic Technology Institute Innsbruck  
 University Of Innsbruck  
 umutcan[dot]simsek[at]sti2[dot]at  
-https://umutcan.eu
+[umutcan.eu](https://umutcan.eu)
 
 Umutcan Simsek is a senior PhD student at STI Innsbruck. His research is on service-driven goal-oriented dialog systems, supervised by Univ.-Prof. Dr. Dieter Fensel. He has been a part of the research group  for 4 years and worked on several industrial and research projects at both national and EU level. He has (co-) authored several publications, including conference and journal publications as well as a book about topics like web service annotation, Knowledge Graph building based on schema.org annotations and domain-specific verification of semantic annotations. He is also a receiver of the [netidee](https://www.netidee.at/user/1154) grant in 2018 awarded by the Internet Privatstiftung Austria for the most innovative PhD and Master theses in Austria.
 
