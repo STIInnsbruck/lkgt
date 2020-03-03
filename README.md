@@ -1,17 +1,26 @@
-# How to build a knowledge graph
-SEMANTICS 2019 Tutorial: How to build a knowledge graph
+# How to build large knowledge graphs efficiently (LKGT)
+ ISWC 2020 Tutorial
 
 ## Agenda:
-**September 9, 2019**  
-13:30	- 15:00 Tutorial Part 1  
-15:00 - 15:30	COFFEE BREAK  
-15:30 - 17:30 Tutorial Part 2 
+**November 2<sup>nd</sup> or 3<sup>rd</sup> 2020 (TBA)**  
+**Duration:** half day
 
-More information about the program can be found on [the conference's tutorial program website](http://semantics.cc/programme)
+More information about the program can be found on [the conference's tutorial program website](https://iswc2020.semanticweb.org/)
 
 ## Abstract
-Building and hosting a Knowledge Graph requires some effort and a lot of experience in semantic technologies. Turning this Knowledge Graph into a useful resource for problem solving requires even more effort. The overall goal of building a Knowledge Graph is to provide cost‐sensitive methods to host knowledge, improve its quality and ensuring the usefulness for envisaged applications: “There are two main goals of Knowledge Graph refinement: (a) adding missing knowledge to the graph, i.e., completion, and (b) identifying wrong information in the graph, i.e. error detection.” (Paulheim et al. 2017). This tutorial is targeting the process from knowledge creation over knowledge hosting, knowledge curation to knowledge deployment - applied to a Knowledge Graph using schema.org as an ontology.
+Building and hosting a Knowledge Graph requires some effort and a lot of experience in semantic technologies. Turning this Knowledge Graph into a useful resource for problem solving requires even more effort. An important consideration is to provide cost‐sensitive methods to build a Knowledge Graph that is a useful resource for various applications: “There are two main goals of Knowledge Graph refinement: (a) adding missing knowledge to the graph, i.e., completion, and (b) identifying wrong information in the graph, i.e. error detection.” (Paulheim et al. 2017) This tutorial is targeting the process from knowledge creation over knowledge hosting, knowledge curation to knowledge deployment - applied to a Knowledge Graph using schema.org and domain specific extensions of schema.org as an ontology. The tutorial will be based on a book the lecturers co-authored: “Knowledge Graphs - Methodology, Tools and Selected Use Cases” (Fensel et al. 2020) and is an extended and adapted version of a tutorial the lecturers gave at [SEMANTICS2019](https://2019.semantics.cc/satellite-events/how-build-knowledge-graph).
+
+## Organizers
+The presenters are experienced PhD students with several publications in the field. They also actively participate in a industry-funded project, [MindLab](https://mindlab.ai), that aims to build a Knowledge Graph for the tourism domain to be consumed by conversational agents. Moreover, the presenters have teaching experience in the field, especially with courses like Semantic Web and Semantic Web Services.
+
+The organizers are co-authors of the book "Knowledge Graphs - Methodology, Tools and Selected Use Cases" [(Fensel et al., 2020)](https://www.springer.com/de/book/9783030374389).
+
+### Elias Kärle
+TBA
+
+### Umutcan Simsek
+Umutcan Simsek is a senior PhD student at STI Innsbruck. His research is on service-driven goal-oriented dialog systems, supervised by Univ.-Prof. Dr. Dieter Fensel. He has been a part of the research group  for 4 years and worked on several industrial and research projects at both national and EU level. He has (co-) authored several publications, including conference and journal publications as well as a book about topics like web service annotation, Knowledge Graph building based on schema.org annotations and domain-specific verification of semantic annotations. He is also a receiver of the [netidee](https://www.netidee.at/user/1154) grant in 2018 awarded by the Internet Privatstiftung Austria for the most innovative PhD and Master theses in Austria.
 
 ## Slides
 
-https://drive.google.com/file/d/1LOcMtASMHpnxMQLKAzWQSfstdMooR8yP/view?usp=sharing
+to be published right after the tutorial
