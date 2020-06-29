@@ -21,7 +21,7 @@ University Of Innsbruck
 elias[dot]kaerle[at]sti2[dot]at  
 [elias.kaerle.com](https://elias.kaerle.com)
 
-Elias Kärle is a senior PhD student at STI Innsbruck. His research is focusing on efficient publication methods for Linked Data, supervised by Univ.-Prof. Dr. Dieter Fensel. ...
+Elias Kärle is a senior PhD student at STI Innsbruck. His research is focusing on efficient publication methods for semantic data, supervised by Univ.-Prof. Dr. Dieter Fensel at the Semantic Technology Institute (STI) research group. He has been a part of the research group for five years and worked on numerous industrial and research projects. Before joining the STI he has been working as a full-stack software developer for web applications and mobile applications in the area of eTourism and eCommerce. He has (co-)authored several publications, including conference and journal articles as well as a book, about topics like scalable annotation creation, Knowledge Graph building based on schema.org annotations, and domain specific verification of semantic annotations.
 
 ### Umutcan Simsek
 Semantic Technology Institute Innsbruck  
