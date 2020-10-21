@@ -2,8 +2,10 @@
  ISWC 2020 Tutorial
 
 ## Tentative Schedule:
-**November 2<sup>nd</sup> or 3<sup>rd</sup> 2020 (TBA)**  
-**Duration:** half day (times slots TBA)
+**November 2<sup>nd</sup>, 2020**  
+**Duration:** half day (14:00-18:00 GMT+2) 
+
+The tutorial will take about 3 hours. We reserve ~1 hour at the end for discussion and questions. Please join our Slack [workspace](https://join.slack.com/t/lkgt-iswc2020/shared_invite/zt-ipn6b9hc-~noIrcSPSO8ThrNnlblPgw) and [channel](https://app.slack.com/client/T01DQB1P8GY/C01CTPP4R4N) for the discussion session and communication regarding the tutorial. 
 
 More information about the program can be found on [the conference's tutorial program website](https://iswc2020.semanticweb.org/)
 
@@ -34,3 +36,7 @@ Umutcan Simsek is a senior PhD student at STI Innsbruck. His research is on serv
 ## Slides
 
 to be published right after the tutorial
+
+## Tools and literatur
+
+will be published shortly
