@@ -3,7 +3,8 @@
 
 ## Tentative Schedule:
 **November 2<sup>nd</sup>, 2020**  
-**Duration:** half day (14:00-18:00 GMT+2) 
+**Duration:** half day (14:00-18:00 CET) 
+Zoom link: TBD
 
 The tutorial will take about 3 hours. We reserve ~1 hour at the end for discussion and questions. Please join our Slack [workspace](https://join.slack.com/t/lkgt-iswc2020/shared_invite/zt-ipn6b9hc-~noIrcSPSO8ThrNnlblPgw) and [channel](https://app.slack.com/client/T01DQB1P8GY/C01CTPP4R4N) for the discussion session and communication regarding the tutorial. 
 
