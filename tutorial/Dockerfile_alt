@@ -1,0 +1,9 @@
+FROM openjdk:8-jre-slim-buster
+
+WORKDIR /home
+
+COPY duke-core-1.3-SNAPSHOT.jar duke-core-1.3-SNAPSHOT.jar
+COPY restaurants_new.nt  restaurants_new.nt
+COPY config.xml config.xml
+
+ENTRYPOINT [ "/bin/bash" ]

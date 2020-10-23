@@ -1,0 +1,37 @@
+<duke>
+    <schema>
+      <threshold>0.82</threshold>
+      <maybe-threshold>0.75</maybe-threshold>
+      <path>index</path>
+  
+      <property type="id">
+        <name>ID</name>
+      </property>
+  
+      <property>
+        <name>NAME</name> 
+        <comparator>no.priv.garshol.duke.comparators.Levenshtein</comparator>
+        <low>0.3</low>
+        <high>0.8</high>
+      </property>
+      <property>
+        <name>ADDRESS</name> 
+        <comparator>no.priv.garshol.duke.comparators.Levenshtein</comparator>
+        <low>0.3</low>
+        <high>0.88</high>
+      </property> 
+    </schema>  
+    
+    <ntriples>
+      <param name="input-file" value="restaurants_new.nt"/>
+  
+      <column name="?uri"
+              property="ID"/>
+      <column name="http://schema.org/name"
+              cleaner="no.priv.garshol.duke.cleaners.LowerCaseNormalizeCleaner"
+              property="NAME"/>
+              <column name="http://schema.org/address"
+              cleaner="no.priv.garshol.duke.cleaners.LowerCaseNormalizeCleaner"
+              property="ADDRESS"/>
+    </ntriples>
+  </duke>
