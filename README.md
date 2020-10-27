@@ -44,6 +44,11 @@ For this option you would need Java installed on your computer. We have tested i
 
 A video that demonstrates the tools that work with domain specific patterns created with SHACL can be found [online](https://drive.google.com/file/d/1ZrDy6vu5-jaL_OpkQo3tIBSYX1F16eMg/view?usp=sharing). Additionally, you can register to [semantify.it](https://semantify.it) and try everything yourself.
 
+### SHACL and ShEx Examples
+
+* [SHACL Shape](example/shacl.ttl)
+* [ShEx Shape](example/example.shex)
+
 ## Organizers
 The presenters are experienced PhD students with several publications in the field. They also actively participate in a industry-funded project, [MindLab](https://mindlab.ai), that aims to build a Knowledge Graph for the tourism domain to be consumed by conversational agents. Moreover, the presenters have teaching experience in the field, especially with courses like Semantic Web and Semantic Web Services.
 
