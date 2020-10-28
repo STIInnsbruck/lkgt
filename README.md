@@ -78,7 +78,7 @@ to be published right after the tutorial
 
 ### Knowledge Creation: Mapping Languages
 
-*Below is a list of languages to define declerative mappings data sources to RDF. These languages are presented at the TPAC meeting of the [Knowledge Graph Construction Community Working Group](https://github.com/kg-construct/).*
+Below is a list of languages to define declerative mappings data sources to RDF. These languages are presented at the TPAC meeting of the [Knowledge Graph Construction Community Working Group](https://github.com/kg-construct/).
 
 #### Ontop Language (2009)
 
@@ -128,6 +128,16 @@ Below is a list of tools to create knowledge from heterogenous sources. These to
 #### Virtual KG Construction Tools
 
 * [Ontop](https://ontop-vkg.org/)
+* [Morph-CSV](https://morph.oeg.fi.upm.es/tool/morph-csv)
+* [Ontario](https://github.com/SDM-TIB/Ontario)
+* [Squerall](https://eis-bonn.github.io/Squerall/)
+
+#### SPARQL-based and Multilanguage Rules
+
+* [Helio](https://oeg-upm.github.io/helio/)
+* Chimera
+* [SPARQL Microservices](https://sparql-micro-services.org/)
+* [SPARQL-Generate](https://w3id.org/sparql-generate/)
 
 ### Knowledge Assessment
 
