@@ -76,9 +76,58 @@ to be published right after the tutorial
 
 ## Methods and Tools
 
-### Knowledge Creation
+### Knowledge Creation: Mapping Languages
 
-TBD
+*Below is a list of languages to define declerative mappings data sources to RDF. These languages are presented at the TPAC meeting of the [Knowledge Graph Construction Community Working Group](https://github.com/kg-construct/).*
+
+#### Ontop Language (2009)
+
+*Calvanese, D., Cogrel, B., Komla-Ebri, S., Kontchakov, R., Lanti, D., Rezk, M., Rodriguez-Muro, M., & Xiao, G. (2016). Ontop: Answering SPARQL queries over relational databases. Semantic Web, 8(3), 471–487. https://doi.org/10.3233/SW-160217*
+
+#### RML (2013)
+
+*Dimou, A., Vander Sande, M., Colpaert, P., Verborgh, R., Mannens, E., & Van de Walle, R. (2014, January). RML: a generic language for integrated RDF mappings of heterogeneous data. In Ldow.*
+
+#### xR2RML (2014)
+
+**Michel, F., Djimenou, L., Zucker, C. F., & Montagnat, J. (2017). xR2RML: Relational and non-relational databases to RDF mapping language.**
+
+#### SPARQL-Generate (2016)
+
+*Maxime Lefrançois, Antoine Zimmermann, Noorani Bakerally A SPARQL extension for generating RDF from heterogeneous formats, In Proc. Extended Semantic Web Conference, ESWC, May 2017, Portoroz, Slovenia*
+
+#### YARRRML (2018)
+
+[](https://rml.io/yarrrml/)
+
+#### ShExML (2020)
+
+*Garcia-Gonzalez, H., Fernandez-Alvarez, D., & Gayo, J. E. L. (2018). ShExML: An Heterogeneous Data Mapping Language based on ShEx. In EKAW (Posters & Demos) (pp. 9-12).*
+
+
+### Knowledge Creation: Tools
+
+Below is a list of tools to create knowledge from heterogenous sources. These tools are presented at the TPAC meeting of the [Knowledge Graph Construction Community Working Group](https://github.com/kg-construct/).
+
+#### Rule Construction Tools
+
+* [GRAFO](https://gra.fo)
+* [RML Editor](https://rml.io/app/rmleditor/)
+* [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor)
+  
+
+#### ETL RML-based Tools 
+
+* [RMLMapper](https://github.com/RMLio/rmlmapper-java)
+* [RocketRML](https://semantifyit.github.io/RocketRML/)
+* [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer)
+* [RML Streamer](https://github.com/RMLio/RMLStreamer)
+* [FunMap](https://github.com/SDM-TIB/FunMap)
+* [carml](https://github.com/carml/carml)
+
+#### Virtual KG Construction Tools
+
+* [Ontop](https://ontop-vkg.org/)
 
 ### Knowledge Assessment
 
