@@ -90,7 +90,7 @@ to be published right after the tutorial
 
 #### xR2RML (2014)
 
-**Michel, F., Djimenou, L., Zucker, C. F., & Montagnat, J. (2017). xR2RML: Relational and non-relational databases to RDF mapping language.**
+*Michel, F., Djimenou, L., Zucker, C. F., & Montagnat, J. (2017). xR2RML: Relational and non-relational databases to RDF mapping language.*
 
 #### SPARQL-Generate (2016)
 
