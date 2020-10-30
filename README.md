@@ -135,7 +135,7 @@ Below is a list of tools to create knowledge from heterogenous sources. These to
 #### SPARQL-based and Multilanguage Rules
 
 * [Helio](https://oeg-upm.github.io/helio/)
-* Chimera
+* [Chimera](https://github.com/cefriel/chimera)
 * [SPARQL Microservices](https://sparql-micro-services.org/)
 * [SPARQL-Generate](https://w3id.org/sparql-generate/)
 
