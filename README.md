@@ -3,28 +3,28 @@
 
 ## Schedule:
 **November 2<sup>nd</sup>, 2020**  
-**Duration:** half day (14:00-18:00 CET) 
+**Duration:** half day (14:00-18:00 CET)
 All registered participants will receive the details regarding joining the online tutorial.
 
-The tutorial will take about 3 hours. We reserve ~1 hour at the end for discussion and questions. Please join the [tutorial-lkgt](https://iswc2020.slack.com/archives/C01EHE0JJL8) channel at ISWC2020 Slack workspace for the discussion session and communication regarding the tutorial. 
+The tutorial will take about 3 hours. We reserve ~1 hour at the end for discussion and questions. Please join the [tutorial-lkgt](https://iswc2020.slack.com/archives/C01EHE0JJL8) channel at ISWC2020 Slack workspace for the discussion session and communication regarding the tutorial.
 
 More information about the program can be found on [the conference's tutorial program website](https://iswc2020.semanticweb.org/)
 
 ## Abstract
 Building and hosting a Knowledge Graph requires some effort and a lot of experience in semantic technologies. Turning this Knowledge Graph into a useful resource for problem solving requires even more effort. An important consideration is to provide cost‐sensitive methods to build a Knowledge Graph that is a useful resource for various applications: “There are two main goals of Knowledge Graph refinement: (a) adding missing knowledge to the graph, i.e., completion, and (b) identifying wrong information in the graph, i.e. error detection.” (Paulheim et al. 2017) This tutorial is targeting the process from knowledge creation over knowledge hosting, knowledge curation to knowledge deployment - applied to a Knowledge Graph using schema.org and domain specific extensions of schema.org as an ontology. The tutorial will be based on a book the lecturers co-authored: “Knowledge Graphs - Methodology, Tools and Selected Use Cases” (Fensel et al. 2020) and is an extended and adapted version of a tutorial the lecturers gave at [SEMANTICS2019](https://2019.semantics.cc/satellite-events/how-build-knowledge-graph) and [Knowledge Graph Conference 2020](https://www.knowledgegraph.tech/the-knowledge-graph-conference-kgc/workshops-and-tutorials/#1580503922536-633f3f10-737b).
 
-## Demo Instructions 
+## Demo Instructions
 
 ### Duke
 
 #### with Docker (Recommended)
 We dockerized the Duke tool for you so you do not have to worry about the dependencies on your system. In order to use the dockerized demo:
 
-* Set-up docker on your computer by following the [instructions](https://docs.docker.com/get-docker/) for your operating system. 
+* Set-up docker on your computer by following the [instructions](https://docs.docker.com/get-docker/) for your operating system.
 * Clone the [repository](https://github.com/STIInnsbruck/lkgt) from GitHub by running `git clone https://github.com/STIInnsbruck/lkgt` command.
 * Open the command line (terminal) in the `tutorial` folder.
 * Run `docker build -t duke . ` This command will use the the default docker file which directly runs the Duke tool with the example RDF document.
-* Run `docker run -it duke` to run the container. 
+* Run `docker run -it duke` to run the container.
 * Use the interactive linking to detect duplicates.
 * The results will be shown on your terminal.
 
@@ -72,7 +72,9 @@ Umutcan Simsek is a senior PhD student at STI Innsbruck. His research is on serv
 
 ## Slides
 
-to be published right after the tutorial
+Slides can be downloaded here [How to build large knowledge graphs efficiently](https://zenodo.org/record/4197155)  
+Cite as:  
+Elias Kärle, Umutcan Simsek, & Dieter Fensel. (2020, November). How to build large knowledge graphs efficiently. Tutorial at ISWC2020. Zenodo. http://doi.org/10.5281/zenodo.4197155
 
 ## Methods and Tools
 
@@ -114,9 +116,9 @@ Below is a list of tools to create knowledge from heterogenous sources. These to
 * [GRAFO](https://gra.fo)
 * [RML Editor](https://rml.io/app/rmleditor/)
 * [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor)
-  
 
-#### ETL RML-based Tools 
+
+#### ETL RML-based Tools
 
 * [RMLMapper](https://github.com/RMLio/rmlmapper-java)
 * [RocketRML](https://semantifyit.github.io/RocketRML/)
@@ -141,10 +143,10 @@ Below is a list of tools to create knowledge from heterogenous sources. These to
 
 ### Knowledge Assessment
 
-#### WIQA (Web Information Quality Assessment Framework) 
+#### WIQA (Web Information Quality Assessment Framework)
 Allows defining policies to filter triples in a graph
 
-http://wifo5-03.informatik.uni-mannheim.de/bizer/wiqa/ 
+http://wifo5-03.informatik.uni-mannheim.de/bizer/wiqa/
 
 *[Bizer and Cyganiak, 2009] Bizer, C., Cyganiak, R.: Quality-driven information filtering using the WIQA policy framework. Journal of Web Semantics 7(1), 1–10 (2009). https://doi.org/10.1016/j.websem.2008.02.005*
 
@@ -164,7 +166,7 @@ Benefits from network features to assess data quality (e.g. counting open chains
 
 Uses data quality indicators, scoring functions and assessment metrics
 
-https://github.com/wbsg/ldif/ 
+https://github.com/wbsg/ldif/
 
 *[Mendes et al., 2012] Mendes, P.N., Mühleisen, H., Bizer, C.: Sieve: linked data quality assessment and fusion. In: Proceedings of 2nd International Workshop on Linked Web Data Management (LWDM 2012), in conjunction with the 15th International Conference on Extending Database Technology (EDBT2012): Workshops, Berlin, Germany, March 30, 2012. pp. 116–123. ACM (2012). https://doi.org/10.1145/2320765.2320803*
 
@@ -176,7 +178,7 @@ https://github.com/HW-SWeL/Validata
 
 *[Hansen et al., 2015] Hansen, J.B., Beveridge, A., Farmer, R., Gehrmann, L., Gray, A.J.G., Khutan, S., Robertson, T., Val, J.: Validata: An online tool for testing RDF data conformance. In: Proceedings of the 8th International Conference on Semantic Web Applications and Tools for Life Sciences (SWAT4LS2015), Cambridge, UK, December 7-10, 2015. CEUR Workshop Proceedings, vol. 1546, pp. 157–166. CEUR-WS.org (2015), http://ceur-ws.org/Vol-1546/paper_3.pdf*
 
-#### Luzzu (A Quality Assessment Framework for Linked Open Datasets) 
+#### Luzzu (A Quality Assessment Framework for Linked Open Datasets)
 
 Allows declarative definitions of quality metrics and produces machine-readable assessment reports based on Dataset Quality Vocabulary
 
@@ -184,12 +186,12 @@ https://eis-bonn.github.io/Luzzu/downloads.html
 
 *[Debattista et al., 2016] Debattista, J., Auer, S., Lange, C.: Luzzu - A methodology and framework for linked data quality assessment. Journal of Data and Information Quality (JDIQ) 8(1), 4:1–4:32 (2016). https://doi.org/10.1145/2992786*
 
-#### RDFUnit 
+#### RDFUnit
 
 A framework that assesses linked data quality based on test cases defined in various ways (e.g. RDFS/OWL axioms can be converted into constraints)
 
 https://github.com/AKSW/RDFUnit/
-    
+
 *[Kontokostas et al., 2014] Kontokostas, D., Westphal, P., Auer, S., Hellmann, S., Lehmann, J., Cornelissen, R., Zaveri, A.: Test-driven evaluation of linked data quality. In: Proceedings of the 23rd International Conference on World Wide Web (WWW2014), Seoul, Korea, April 07 - 11, 2014. pp. 747–758. ACM (2014). https://doi.org/10.1145/2566486.2568002*
 
 
@@ -219,7 +221,7 @@ Learns the relationships between data columns and validate the learn patterns wi
 
 *[Chu et al., 2015] Chu, X., Ouzzani, M., Morcos, J., Ilyas, I.F., Papotti, P., Tang, N., Ye, Y.: KATARA: reliable data cleaning with knowledge bases and crowdsourcing. Proceedings of the 41st International Conference on Very Large Data Bases (PVLDB2015), VLDB Endowment, Hawaii, August 31- September 4, 2015 8(12), 1952–1955 (2015). https://doi.org/10.14778/2824032.2824109, http://www.vldb.org/pvldb/vol8/p1952-chu.pdf*
 
-#### SDValidate 
+#### SDValidate
 
 Uses statistical distribution to detect erroneous statements that connect two resources. The statements with less frequent predicate-object pairs are selected as candidates for being wrong.
 
@@ -227,9 +229,9 @@ Uses statistical distribution to detect erroneous statements that connect two re
 
 *[Paulheim & Bizer,  2014] Paulheim, H., Bizer, C.: Improving the quality of linked data using statistical distributions. International Journal on Semantic Web and Information Systems (IJSWIS) 10(2), 63–86 (2014). https://doi.org/10.4018/ijswis.2014040104*
 
-#### SHACL and ShEx 
+#### SHACL and ShEx
 
-Two approaches that aim to verify RDF graphs against a specification (so called shapes). 
+Two approaches that aim to verify RDF graphs against a specification (so called shapes).
 For a comparison of two approaches, see Chapter 7 in [Gayo et al., 2017]
 
 https://www.w3.org/TR/shacl/
@@ -258,13 +260,13 @@ A framework that tries to identify the time interval where a statement was corre
 
 #### Dedupe
 
-A python library that uses machine learning to find duplicates in a dataset and to link two datasets. 
+A python library that uses machine learning to find duplicates in a dataset and to link two datasets.
 
 https://github.com/dedupeio/dedupe
 
 #### Duke  
 
-Uses various similarity metrics to detect duplicates in a dataset or link records between two datasets based on a given configuration. 
+Uses various similarity metrics to detect duplicates in a dataset or link records between two datasets based on a given configuration.
 
 https://github.com/larsga/Duke
 
@@ -278,7 +280,7 @@ https://github.com/DOREMUS-ANR/legato
 
 *[Achichi et al., 2017] Achichi, M., Bellahsene, Z., Todorov, K.: Legato results for OAEI 2017. In: Proceedings of the 12th International Workshop on Ontology Matching (OM2017) co-located with the 16th International Semantic Web Conference (ISWC2017), Vienna, Austria, October 21, 2017. CEUR Workshop Proceedings, vol. 2032, pp. 146–152. CEUR-WS.org (2017)*
 
-#### LIMES 
+#### LIMES
 
 A link discovery approach that benefits from the metric spaces (in particular triangle inequality) to reduce the amount of comparisons between source and target dataset.
 
@@ -314,20 +316,19 @@ https://github.com/GeoKnow/FAGI-gis
 
 #### KnoFuss   
 
-A framework that allows the application of different methods on different attributes in the same dataset for identification of duplicates and resolves inconsistencies caused by the fusion of linked instances. 
+A framework that allows the application of different methods on different attributes in the same dataset for identification of duplicates and resolves inconsistencies caused by the fusion of linked instances.
 
 http://technologies.kmi.open.ac.uk/knofuss/
 
 *[Nikolov et al., 2008] Nikolov, A., Uren, V.S., Motta, E., Roeck, A.N.D.: Integration of semantically annotated data by the knofuss architecture. In: Gangemi, A., Euzenat, J. (eds.) Proceedings of the 16th International Conference on Knowledge Engineering and Knowledge Management (EKAW2008): Practice and Patterns, Acitrezza, Italy, September 29 - October 2, 2008. Lecture Notes in Computer Science, vol. 5268, pp. 265–274. Springer (2008). https://doi.org/10.1007/978-3-540-87696-0_24*
 
-#### ODCleanStore 
+#### ODCleanStore
 
 A framework that contains a fusion module that allows users to configure conflict resolution policies based on different functions (e.g. AVG, MAX, CONCAT) that can be applied on conflicting property values.
 
 *[Knap et al., 2012] Knap, T., Michelfeit, J., Necaský, M.: Linked open data aggregation: Conflict resolution and aggregate quality. In: Proceedings of the 36th Annual IEEE Computer Software and Applications Conference Workshops (COMPSAC2012), Izmir, Turkey, July 16-20, 2012. pp. 106–111. IEEE Computer Society (2012). https://doi.org/10.1109/COMPSACW.2012.29*
 
-#### Sieve 
-Sieve has a data fusion module that supports different fusion functions on selected property values. It also utilizes the assessment values from the assessment module in the fusion process. 
+#### Sieve
+Sieve has a data fusion module that supports different fusion functions on selected property values. It also utilizes the assessment values from the assessment module in the fusion process.
 
 *[Mendes et al., 2012] Mendes, P.N., Mühleisen, H., Bizer, C.: Sieve: linked data quality assessment and fusion. In: Proceedings of 2nd International Workshop on Linked Web Data Management (LWDM 2012), in conjunction with the 15th International Conference on Extending Database Technology (EDBT2012): Workshops, Berlin, Germany, March 30, 2012. pp. 116–123. ACM (2012). https://doi.org/10.1145/2320765.2320803*
-
