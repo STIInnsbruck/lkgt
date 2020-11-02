@@ -1,0 +1,16 @@
+PREFIX ex: <http://example.org>
+PREFIX s: <http://schema.org/>
+PREFIX dbpedia: <http://dbpedia.org/resource/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+my:LandmarkShape {
+  s:address {
+    rdf:type s:PostalAddress;
+    s:streetAddress xsd:string;
+    s:addressLocality xsd:string:
+    s:addressCountry s:Country;
+    s:postalCode xsd:string
+  };
+  s:containedInPlace s:Place
+}
